@@ -563,4 +563,24 @@
     "fun": 15,
     "use_action": "WEED_CAKE"
   }
+  {
+    "type": "COMESTIBLE",
+    "id": "animal_cracker",
+    "name": "animal crackers",
+    "weight": "57 g",
+    "color": "brown",
+    "spoils_in": "360 days",
+    "container": "box_small",
+    "comestible_type": "FOOD",
+    "symbol": "%",
+    "quench": -2,
+    "calories": 64,
+    "description": "An assortment of tiny crackers shaped like zoo animals.",
+    "price": 300,
+    "material": "wheat",
+    "volume": "1 L",
+    "flags": [ "EDIBLE_FROZEN" ],
+    "charges": 4,
+    "fun": 1
+  },
 ]
