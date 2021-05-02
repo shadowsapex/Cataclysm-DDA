@@ -1,0 +1,70 @@
+[
+  {
+    "type": "mapgen",
+    "method": "json",
+    "om_terrain": "island_sand",
+    "object": {
+      "fill_ter": "t_sand",
+      "rows": [
+        "********~./////.....~***",
+        "***ddddddd/////.....~~**",
+        "***ddddddd////........~*",
+        "******~..///////....~~~*",
+        "******~.//////////...~~*",
+        "******~///////////....~~",
+        "*~~~...///////////..~~~~",
+        "~~.....////////////..~~~",
+        "~~..////////////////...~",
+        "~~..//////////////////.~",
+        "~~..//////////////////.~",
+        "~../////./////////////.~",
+        "~..///////////////////.~",
+        "~..///////////////////~~",
+        "~..///////////////////.~",
+        "~~.///////////////////.~",
+        "~..////.//////////////~~",
+        "~..///////////////////~~",
+        "~..///////////////////.~",
+        "~~.////////////.//////.~",
+        "~~...///////////////..~~",
+        "*~~.../////////////..~~*",
+        "**~~~~~~~~////~..~~~****",
+        "****~~**~~~//~~~~~~*****"
+      ],
+      "terrain": { "/": "t_sand", "~": "t_water_sh", "*": "t_water_dp", "8": "t_railroad_rubble", ".": "t_sand", "d": "t_sand" },
+      "furniture": { ".": [ [ "f_boulder_medium", 1 ], [ "f_boulder_small", 1 ], [ "f_boulder_large", 2 ] ] }
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "om_terrain": "island_forest",
+    "object": {
+      "predecessor_mapgen": "forest"
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "om_terrain": "island_forest_thick",
+    "object": {
+      "predecessor_mapgen": "forest_thick"
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "om_terrain": "island_forest_water",
+    "object": {
+      "predecessor_mapgen": "forest_water"
+    }
+  },
+  {
+    "type": "mapgen",
+    "method": "json",
+    "om_terrain": "island_field",
+    "object": {
+      "predecessor_mapgen": "field"
+    }
+  }
+]

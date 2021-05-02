@@ -1,0 +1,586 @@
+[
+    {
+        "type": "overmap_special",
+        "id": "motel-twd",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Motel",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Boat Rental",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Riverside Dwelling",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Pottery Cottage",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Shipwreck",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "LMOE Shelter",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Rural Gas Station",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Gas Station",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Cabin",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Cabin_1",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Cabin_2",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Cabin_3",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Cabin_4",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Cabin_5",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Cabin_6",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Cabin_7",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Cabin_Lapin",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Strange Cabin",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Sugar House",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Strangle Temple",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Standing stones",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Lab with Anthill",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "FEMA Camp",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "FEMA_Camp2",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Radio Tower",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Radio Tower 1",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Prison",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Alcatraz Prison",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Island Prison",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Mine Entrance",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Toxic Waste Dump",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Hazardous Waste Sarcophagus",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Necropolis",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "evac_center",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "bandit_cabin",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "bandit_camp",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "ranch_camp",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "campsite",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "campsite_cabin_incomplete",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "campsite_field_biker",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "campsite_a",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "campsite_field_biker_destroyed",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "rest_stop",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "roadstop_a",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "roadstop_b",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "pump_station",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "garage_gas",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "cemetery_religious",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Swamp Shack",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Swamp Shack 1",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "State Park",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Fishing Pond",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Derelict Property",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Hunting Blind",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Mansion_Road",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Mansion_Road_Alt",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Mansion_Wild",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Mansion_WildAlt",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "junkyard",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "dumpsite",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "nature trail",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "public pond",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "cemetery",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "shooting range",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "campground",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "desolate barn",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Rest_Area",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "rural_house",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "rural_house_turn",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "rural_house_yard",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Moonshine Still",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Moonshine Still 1",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Moonshine Still 2",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "hub_01",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "ws_survivor_bunker_place",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "ws_survivor_camp_place",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "ws_fire_lookout_tower",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "ws_regional_dump",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "lab_surface_big",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "irradiator",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "regional_airport",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Lumbermill",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "ws_biker_dump",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "lake_shore_dock_small",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Lighthouse Island",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Lake Cabin",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "marina",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "airliner_crashed",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Large Campground",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "steel mill",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "miniature railway",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Luna Park",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "o_airport",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "o_lightindustry",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Freshwater Research Station",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    },
+    {
+        "type": "overmap_special",
+        "id": "Bastion Fort",
+        "overmaps": [  ],
+        "occurrences": [ 0, 0 ]
+    }
+
+
+]

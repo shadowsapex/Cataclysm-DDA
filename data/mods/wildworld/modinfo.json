@@ -1,0 +1,19 @@
+[
+    {
+      "type": "MOD_INFO",
+      "id": "wildworld",
+      "name": "Wild World",
+      "authors": [ "shadowsapex" ],
+      "maintainers": [ "shadowsapex" ],
+      "description": "Removes all manmade structures and items from the game.",
+      "category": "monster_exclude",
+      "dependencies": [ "dda" ]
+    },
+
+    {
+      "type": "MONSTER_WHITELIST",
+      "mode": "EXCLUSIVE",
+      "categories": [ "WILDLIFE" ]
+    }
+  ]
+  
